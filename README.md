@@ -1,4 +1,4 @@
-# DataConduit: Ingestor de API para MinIO
+# automated-data-pipeline-minio: Ingestor de API para MinIO
 
 ![Status do Projeto](https://img.shields.io/badge/status-concluído-green)
 
